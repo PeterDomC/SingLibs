@@ -1,5 +1,5 @@
 <h1>
-  SingLibs - A collection of libraries for computing curve invariants and differential algebras
+  SingLibs - A collection of libraries for computing curve sinuglarity invariants and differential algebras
 </h1>
 
 SingLibs contains two libraries for the computer algebra system [Singular](https://www.singular.uni-kl.de/).
